@@ -19,9 +19,18 @@ There are some requirements that are to be installed before observing output
 <br>
 ``
 ghdl
+``
+<br>
+``
 gtkwave
+``
+<br>
+``
 make
 ``
+<br>
+
+**Some installation required to run VHDL code on debian:**
 <br>
 ``
 $ sudo apt install ghdl gtkwave -y
