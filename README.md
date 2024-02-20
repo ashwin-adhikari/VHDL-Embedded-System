@@ -14,15 +14,19 @@
 </ol>
 
 There are some requirements that are to be installed before observing output
+<br>
 **Requirements**
+<br>
 ``
 ghdl
 gtkwave
 make
 ``
+<br>
 ``
 $ sudo apt install ghdl gtkwave -y
 ``
+<br>
 ``
 $ sudo apt install make
 ``
