@@ -1,7 +1,0 @@
-v 4
-file . "bcd7Test.vhdl" "4a9200a38550569a94193de75f84b3e91d034ae4" "20240210173747.641":
-  entity bcd7test at 1( 0) + 0 on 13;
-  architecture behaviour of bcd7test at 8( 104) + 0 on 14;
-file . "bcd7.vhdl" "3c7953eb889e2c0527e41040f7919b930514729b" "20240210173747.633":
-  entity bcd_seg at 1( 0) + 0 on 11;
-  architecture behaviour of bcd_seg at 11( 156) + 0 on 12;
