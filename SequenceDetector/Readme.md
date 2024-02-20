@@ -2,4 +2,4 @@
 <img src="./SeqDec1011.png">
 <h2>Result</h2>
 <img src="./Sequence Detector.png">
-<img src="./SeqDec1011.png">
+
